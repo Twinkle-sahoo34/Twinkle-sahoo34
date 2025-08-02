@@ -36,7 +36,7 @@
     src="https://media3.giphy.com/media/ViQb3BY5WQNQiQJd90/giphy.webp" 
     alt="coding" 
     width="250" 
-    style="position: fixed; bottom: 10px; right: 10px; z-index: 10;"
+    style="position:  right: 10px; z-index: 10;"
   />
 
   <!-- Connect with Me -->
