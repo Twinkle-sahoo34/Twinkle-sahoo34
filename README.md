@@ -31,13 +31,7 @@
     <li>⚡ Fun fact: <em>I accidentally chose this course 🤥</em></li>
   </ul>
 
-  <!-- Fixed bottom-right corner GIF -->
-  <img 
-    src="https://media3.giphy.com/media/ViQb3BY5WQNQiQJd90/giphy.webp" 
-    alt="coding" 
-    width="250" 
-    style="position:  right: 10px; z-index: 10;"
-  />
+  
 
   <!-- Connect with Me -->
   <h3 align="left">Connect with me:</h3>
